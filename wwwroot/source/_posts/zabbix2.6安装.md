@@ -1,6 +1,6 @@
 ---
 title: zabbix2.6安装
-date: 
+date: 2016-09-02
 tags:
 ---
 

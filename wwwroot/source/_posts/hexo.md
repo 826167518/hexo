@@ -1,6 +1,6 @@
 ---
 title: 搭建Hexo
-date: 
+date: 2016-09-02
 tags:
 ---
 1、安装编译npm基础包

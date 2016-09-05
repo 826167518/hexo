@@ -1,6 +1,6 @@
 ---
 title: linux—SSH1
-date: 
+date: 2016-09-02
 tags:
 ---
 一、远程连接简介

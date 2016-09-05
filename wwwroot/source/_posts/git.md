@@ -1,6 +1,6 @@
 ---
 title: git使用说明
-date: 
+date: 2016-09-02
 tags:
 ---
 在linux下搭建git环境
